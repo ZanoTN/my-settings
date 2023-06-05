@@ -1,0 +1,42 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"explorer.confirmDelete": false,
+	"git.confirmSync": false,
+	"terminal.integrated.commandsToSkipShell": [
+		"\"editor.bracketPairColorization.enabled\": true",
+		" \"editor.guides.bracketPairs\":\"active\""
+	],
+	"explorer.confirmDragAndDrop": false,
+	"git.enabled": true,
+	"editor.codeLensFontFamily": "JetBrains Mono",
+	"editor.tabSize": 2,
+	"kite.showWelcomeNotificationOnStartup": false,
+	"editor.insertSpaces": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.fontFamily": "'Fira Code', 'JetBrains Mono', 'Source Code Pro', 'monospace', monospace",
+	"editor.accessibilitySupport": "off",
+	"settingsSync.ignoredExtensions": [
+	
+	],
+	"git.branchPrefix": "riccardo.zanotelli/",
+	"workbench.colorTheme": "GitHub Dark Default",
+	"oneDarkPro.editorTheme": "Gnome",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.printWidth": 900,
+	"editor.fontLigatures": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.fontSize": 16,
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"terminal.integrated.fontSize": 13,
+	"editor.unicodeHighlight.allowedCharacters": {
+		"️": true
+	}
+}
